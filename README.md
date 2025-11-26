@@ -16,7 +16,7 @@
 - 📧 How to reach me <b>**sdiptimayee1503@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://Diptimayeesahoo.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
 - 📰 Write article on <b><a href="https://medium.com/@diptimayeesahoo" target="_blank" rel="noopener noreferrer">Blogs</a></b>
-- 📄 Check out my <b><a href="[https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link](https://drive.google.com/file/d/1dOBEV2B0_cBRu4mJh2qTIayGOQBMbrWo/view?usp=drive_open)" target="_blank" rel="noopener noreferrer">Resume</a></b>
+- 📄 Check out my <b><a href="https://drive.google.com/file/d/1dOBEV2B0_cBRu4mJh2qTIayGOQBMbrWo/view?usp=drive_open" target="_blank" rel="noopener noreferrer">Resume</a></b>
 
    
 
